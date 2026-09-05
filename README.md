@@ -1,0 +1,2 @@
+# Incident_Lifecycle_Automation_In_ServiceNow
+Incident Management lifecycle using ServiceNow
